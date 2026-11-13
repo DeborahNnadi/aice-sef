@@ -1,0 +1,4 @@
+Three fictional developers and their specialty.
+Beatrice Edeh - backend developer.
+Donatus Ikechukwu - mobile app developer. 
+Glory Lucky - frontend developer.
